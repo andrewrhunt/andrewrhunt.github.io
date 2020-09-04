@@ -3,25 +3,11 @@ layout: page
 title: About
 ---
 
-<img src="static/69496521_2600286370034266_8159697160930066432_o.jpg">
+<img src="https://raw.githubusercontent.com/andrewrhunt/andrewrhunt.github.io/master/static/69496521_2600286370034266_8159697160930066432_o.jpg">
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm Andrew Hunt, a current data analyst and aspiring data scientist.
 
-There are currently two themes built on Poole:
+I've spent the last two years at McLagan, an HR consulting firm specializing in the financial services industry.
+I analyze trends in compensation and productivity data, and help firms benchmark their employees relative to the market.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I graduated from Fordham University in 2018, where I studied Economics and minored in Computer Science. (Go Rams!)
