@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
 <img src="https://raw.githubusercontent.com/andrewrhunt/andrewrhunt.github.io/master/static/69496521_2600286370034266_8159697160930066432_o.jpg">
